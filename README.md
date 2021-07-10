@@ -2,5 +2,5 @@
 
 
 <h3>Training a DCGAN on MNIST Handwritten Digits Dataset</h3>
-<img src="mnist_dcgan.gif" alt="here">aubasdad</img>
+<img src="mnist_dcgan.gif" alt="here">DCGAN trained on MNIST</img>
 <pre>Each frame denotes one epoch</pre>
