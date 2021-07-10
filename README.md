@@ -2,4 +2,4 @@
 
 
 <h3>Training a DCGAN on MNIST Handwritten Digits Dataset</h3>
-<img src="mnist_dcgan.gif" alt="here">Progress from generating random noise to distinguishable digits.</img>
+<img src="dcgan_mnist.gif" alt="here">Progress from generating random noise to distinguishable digits.</img>
