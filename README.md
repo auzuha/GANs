@@ -5,7 +5,10 @@
 
 <pre><img src="DCGAN/MNIST/dcgan_mnist.gif" alt="here"><br>Progress from generating random noise to distinguishable digits.</img></pre>
 <hr>
+<h3>WGAN-GP</h3>
+<h3>Training an improved WGAN using gradient penalties to generate anime characters' faces.</h3>
 
+<hr>
 <h3>Pix2Pix</h3>
 <h3>Training Pix2Pix on Maps Dataset</h3>
 
