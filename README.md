@@ -8,7 +8,7 @@
 <h3>Pix2Pix</h3>
 <h3>Training Pix2Pix on Maps Dataset</h3>
 
-<img src="Pix2Pix/results/true_source.png" alt="here" width="256" height="64"><br><pre>             </pre>Satellite Source Image</img><br><br>
+<img src="Pix2Pix/results/true_source.png" alt="here" width="256" height="64"><br><pre>          Satellite Source Image</pre></img><br><br>
 <img src="Pix2Pix/results/true_target.png" alt="here" width="256" height="64"><br>Ground Truth</img><br><br>
 <img src="Pix2Pix/results/generated_188.png" alt="here" width="256" height="64"><br>Generated Map View</img><br><br>
 <img src="Pix2Pix/results/progress.gif" alt="here" width="256" height="64"><br>Training progress visualized across epochs.</img>
