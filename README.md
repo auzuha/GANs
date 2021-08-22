@@ -7,7 +7,7 @@
 
 <h3>Pix2Pix</h3>
 <h3>Training Pix2Pix on Maps Dataset</h3>
-<img src="Pix2Pix/results/true_source.png" alt="here" width="256" height="256"></img>
-<img src="Pix2Pix/results/true_target.png" alt="here" width="256" height="256"></img>
-<img src="Pix2Pix/results/generated_188.png" alt="here" width="256" height="256"></img>
+<img src="Pix2Pix/results/true_source.png" alt="here" width="256" height="64"></img>
+<img src="Pix2Pix/results/true_target.png" alt="here" width="256" height="64"></img>
+<img src="Pix2Pix/results/generated_188.png" alt="here" width="256" height="64"></img>
 <img src="Pix2Pix/results/progress.gif" alt="here"><br>Progress from generating random noise to distinguishable digits.</img>
