@@ -17,7 +17,7 @@
 
 <div class="row">
   <div class="column">
-    <img src="Pix2Pix/results/true_source.png" alt="here" width="256" height="64">
+    <img src="Pix2Pix/results/true_source.png" alt="here" style="width:100%">
   </div>
   <div class="column">
     <img src="Pix2Pix/results/true_target.png" alt="here" width="256" height="64">
