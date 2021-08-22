@@ -9,7 +9,7 @@
 <h3>Pix2Pix</h3>
 <h3>Training Pix2Pix on Maps Dataset</h3>
 
-<pre><img src="Pix2Pix/results/true_source.png" alt="here" width="256" height="64"><br>      Satellite Source Image</img></pre><br><br>
-<pre><img src="Pix2Pix/results/true_target.png" alt="here" width="256" height="64"><br>           Ground Truth</img></pre><br><br>
-<pre><img src="Pix2Pix/results/generated_188.png" alt="here" width="256" height="64"><br>        Generated Map View</img></pre><br><br>
+<pre><img src="Pix2Pix/results/true_source.png" alt="here" width="384" height="128"><br>      Satellite Source Image</img></pre><br><br>
+<pre><img src="Pix2Pix/results/true_target.png" alt="here" width="384" height="128"><br>           Ground Truth</img></pre><br><br>
+<pre><img src="Pix2Pix/results/generated_188.png" alt="here" width="384" height="128"><br>        Generated Map View</img></pre><br><br>
 <pre><img src="Pix2Pix/results/progress.gif" alt="here" width="256" height="64"><br>Training progress visualized across epochs.</img></pre>
