@@ -14,7 +14,7 @@
 
 
 <h3>Pix2Pix</h3>
-<h3>Training Pix2Pix on Maps Dataset</h3>
+<h3>Training Pix2Pix on Maps Dataset to translate images from satelite view to map view.</h3>
 
 <pre><img src="Pix2Pix/results/true_source.png" alt="here" width="384" height="128"><br>              Satellite Source Image</img></pre><br>
 <pre><img src="Pix2Pix/results/true_target.png" alt="here" width="384" height="128"><br>                   Ground Truth</img></pre><br>
